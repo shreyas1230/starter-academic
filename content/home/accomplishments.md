@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url:
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
+  date_start: "2020-08-24"
+  description: "Publication and Oral Presentation at the 2020 European Conference on Computer Vision (ECCV). Pedestrian trajectory forecasting research led by Professor Jitendra Malik."
+  organization: European Computer Vision Association (ECVA)
+  organization_url: https://ecva.net
+  title: Publication and Oral Presentation at ECCV 2020
+  url: "http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4423_ECCV_2020_paper.php"
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2018-03-01"
