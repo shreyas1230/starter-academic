@@ -64,7 +64,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a recent graduate from the Electrical Engineering and Computer Science undergraduate major at UC Berkeley. Along with my knowledge of programming languages such as Python, Java, and C, I have experience with data structures and algorithms, machine learning, controls, and robotics. I am very interested in reinforcement learning and its applications in controls for robotic systems and am always working on researching more into these fields. Aside from my career concentration, I have also enjoyed being an academic intern for the CS61B course, working as an officer of the HKN Mu Chapter, and relaxing through sports such as intramural soccer and Cal Hurling.
+WAITING TO UPDATEI am a recent graduate from the Electrical Engineering and Computer Science undergraduate major at UC Berkeley. Along with my knowledge of programming languages such as Python, Java, and C, I have experience with data structures and algorithms, machine learning, controls, and robotics. I am very interested in reinforcement learning and its applications in controls for robotic systems and am always working on researching more into these fields. Aside from my career concentration, I have also enjoyed being an academic intern for the CS61B course, working as an officer of the HKN Mu Chapter, and relaxing through sports such as intramural soccer and Cal Hurling.
 
 <!-- {{< icon name="download" pack="fas" >}} -->
 Here is a link to my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
