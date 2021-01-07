@@ -52,7 +52,6 @@
         {{ $link := .link }}
         {{ $scheme := (urls.Parse $link).Scheme }}
         {{ $target := "" }}
-        {{ eq .icon "cv" }}
         {{ if not $scheme }}
           {{ $link = .link | relLangURL }}
           {{ if eq .icon "cv"}}
@@ -61,7 +60,6 @@
         {{ else if in (slice "http" "https") $scheme }}
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
-        {{ $link | safeURL}} {{ $target | safeHTMLAttr }}
         <li>
           <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
             <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
