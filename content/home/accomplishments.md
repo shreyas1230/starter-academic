@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
@@ -31,5 +31,23 @@ item:
   organization_url: https://ecva.net
   title: Publication and Oral Presentation at ECCV 2020
   url: "http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/4423_ECCV_2020_paper.php"
+
+- certificate_url:
+  date_end: "2020-08-14"
+  date_start: "2018-08-20"
+  description: "Program selecting talented EECS undergrads for opportunities to pursue an academic concentration outside of the department, engage in research, receive a special faculty advisor, and attend special events with faculty and EECS Honors alumni. Pursued an academic concentration in Physics and conducted various research projects throughout the duration of the program."
+  organization: University of California, Berkeley
+  organization_url: https://www.berkeley.edu/
+  title: Electrical Engineering and Computer Science Honors Program (Physics Breadth)
+  url: "https://eecs.berkeley.edu/resources/undergrads/honors"
+
+- certificate_url:
+  date_end: "2019-05-01"
+  date_start: "2018-08-20"
+  description: "Awarded for demonstrating seriousness of purpose and high academic achievement."
+  organization: University of California, Berkeley
+  organization_url: https://www.berkeley.edu/
+  title: Arthur M. Hopkin Award
+  url: "https://www2.eecs.berkeley.edu/Students/Awards/9/"
 
 ---
