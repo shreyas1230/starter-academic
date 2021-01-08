@@ -64,7 +64,11 @@ email: ""
 highlight_name: true
 ---
 
-I am a recent graduate from the Electrical Engineering and Computer Science undergraduate major at UC Berkeley. Along with my knowledge of programming languages such as Python, Java, and C, I have experience with data structures and algorithms, machine learning, controls, and robotics. I am very interested in reinforcement learning and its applications in controls for robotic systems and am always working on researching more into these fields. Aside from my career concentration, I have also enjoyed being an academic intern for the CS61B course, working as an officer of the HKN Mu Chapter, and relaxing through sports such as intramural soccer and Cal Hurling.
+I am a recent graduate from the Electrical Engineering and Computer Science undergraduate major at UC Berkeley. As an undergrad, I have gained experience with a variety of fields including data structures and algorithms, machine learning, controls, and robotics. My interests lie in deep learning and reinforcement learning and their applications in robotics.
+
+At Berkeley, I have had the opportunity to conduct research in these fields guided by great mentors. I worked on gravitation lens detection in a deep learning framework under Professor Xiaosheng Huang. I have also recently researched pedestrian trajectory prediction, a work that was published to ECCV 2020, led by Professor Jitendra Malik.
+
+I have enjoyed helping others through teaching as an academic intern for the CS61B Data Structures and Algorithms course and working as an officer for the HKN Mu Chapter. With my skills in programming languages such as Python, Java, and C, I have also participated in extracurricular clubs such as Robomasters (a robotics team) and the Space Technologies at Cal group. Outside of academic activities, my hobbies include reading books and playing sports like soccer and basketball.
 
 <!-- {{< icon name="download" pack="fas" >}} -->
 Here is a link to my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
